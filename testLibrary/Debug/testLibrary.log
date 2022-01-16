@@ -1,0 +1,15 @@
+﻿Сборка начата 16.01.2022 19:37:03.
+     1>Проект "C:\projectC\repoz\Projecr\testLibrary\testLibrary.vcxproj" в узле 3 (целевые объекты Build).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /IC:\projectC\repoz\Projecr\Library /I"C:\projectC\googletest\gtest-1.7.0\include" /I"C:\projectC\googletest\gtest-1.7.0" /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt testlib.cpp
+         testlib.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\projectC\repoz\Projecr\Debug\testLibrary.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\projectC\repoz\Projecr\Debug\testLibrary.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\projectC\repoz\Projecr\Debug\testLibrary.lib" /MACHINE:X86 Debug\testlib.obj
+         C:\projectC\repoz\Projecr\Debug\googletest.lib
+         C:\projectC\repoz\Projecr\Debug\Library.lib
+         testLibrary.vcxproj -> C:\projectC\repoz\Projecr\Debug\testLibrary.exe
+     1>Сборка проекта "C:\projectC\repoz\Projecr\testLibrary\testLibrary.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:03.92

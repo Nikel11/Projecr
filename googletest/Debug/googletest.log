@@ -1,0 +1,16 @@
+﻿Сборка начата 16.01.2022 18:10:13.
+     1>Проект "C:\projectC\repoz\Projecr\googletest\googletest.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "..\..\..\googletest\gtest-1.7.0\src\gtest-all.cc" "..\..\..\googletest\gtest-1.7.0\src\gtest_main.cc"
+         gtest_main.cc
+         gtest-all.cc
+         Создание кода...
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\Lib.exe /OUT:"C:\projectC\repoz\Projecr\Debug\googletest.lib" /NOLOGO "Debug\gtest-all.obj"
+         Debug\gtest_main.obj
+         googletest.vcxproj -> C:\projectC\repoz\Projecr\Debug\googletest.lib
+     1>Сборка проекта "C:\projectC\repoz\Projecr\googletest\googletest.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:25.74

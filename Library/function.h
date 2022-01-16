@@ -5,3 +5,9 @@ double suma(double x[], int n);
 double skp(double x[], double y[], int n);
 //прототип функции для суммы квадратов координат
 double sk(double x[], int n);
+// Прототип функции разности чисел
+double raz(double x, double y);
+//Прототип функции произведения чисел
+double proiz(double x, double y);
+//Прототип функции для вычисления факториала
+long double fact(int N);

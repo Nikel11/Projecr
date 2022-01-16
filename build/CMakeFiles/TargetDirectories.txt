@@ -1,0 +1,4 @@
+C:/projectC/repoz/Projecr/build/CMakeFiles/ALL_BUILD.dir
+C:/projectC/repoz/Projecr/build/CMakeFiles/ZERO_CHECK.dir
+C:/projectC/repoz/Projecr/build/topproject/CMakeFiles/Project.dir
+C:/projectC/repoz/Projecr/build/Library/CMakeFiles/ProjectLib.dir
